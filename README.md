@@ -1,4 +1,4 @@
-# RankMind AI 🧠📈
+# RankMind AI 
 
 > **AI SEO & Citation Intelligence Agent That Learns Using Hindsight**
 
@@ -6,7 +6,7 @@ RankMind AI is an AI SEO and Citation Intelligence agent built specifically for 
 
 ---
 
-## 🌟 The Core Problem Solved
+##  The Core Problem Solved
 
 SEO is a long-term process. Marketing teams frequently execute changes but struggle to determine:
 - *Which optimization caused a 15-position improvement?*
@@ -17,7 +17,7 @@ RankMind AI uses **Hindsight** by Vectorize as its persistent memory layer to co
 
 ---
 
-## 🚀 Key Modules & Features
+##  Key Modules & Features
 
 1. **SEO Command Center Dashboard**: Displays Organic Traffic (124,850 visits), Avg Position (12.8), Top 10 Keywords (684), Featured Snippets (32), Citation Opportunities (87), and Memory Rec Success (78%).
 2. **SEO Health Score (0–100)**: Explainable health breakdown across Technical, Content, On-Page, Backlinks, Citations, Internal Linking, and Keyword Coverage.
@@ -67,7 +67,7 @@ rankmind-ai/
 
 ---
 
-## ⚡ Quick Start & Running Locally
+##  Quick Start & Running Locally
 
 ### Prerequisites
 - Python 3.10+
@@ -100,7 +100,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🧪 Running Automated Tests
+##  Running Automated Tests
 
 ```bash
 # Run pytest backend suite
@@ -109,7 +109,7 @@ python -m pytest tests/
 
 ---
 
-## 🎬 60-Second Hackathon Judging Flow
+##  60-Second Hackathon Judging Flow
 
 1. Open **Hackathon Demo Mode** in the sidebar.
 2. Click **Ask Agent WITHOUT Memory**. Notice the AI provides generic, non-personalized SEO advice.
