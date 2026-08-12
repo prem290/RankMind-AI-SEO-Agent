@@ -1,0 +1,64 @@
+[
+  {
+    "keyword": "AI resume analyzer",
+    "timeline": [
+      { "month": "Jan", "date": "2026-01-15", "position": 48, "note": "Initial baseline tracking" },
+      { "month": "Feb", "date": "2026-02-10", "position": 41, "note": "Competitor published 15 new articles" },
+      { "month": "Mar", "date": "2026-03-12", "position": 31, "note": "SEO-014 executed: Added FAQ schema + 5 internal links" },
+      { "month": "Apr", "date": "2026-04-15", "position": 19, "note": "Google re-indexed updated page structure" },
+      { "month": "May", "date": "2026-05-20", "position": 12, "note": "Position gain correlated with FAQ schema rich snippets" },
+      { "month": "Jun", "date": "2026-06-10", "position": 8, "note": "Entered Top 10 (+40 positions overall)" }
+    ],
+    "correlated_actions": [
+      {
+        "date": "2026-03-12",
+        "action": "Added FAQ schema & 5 contextual internal links",
+        "experiment_id": "SEO-014",
+        "impact": "Likely contributed to position jump 31 -> 19 -> 8"
+      },
+      {
+        "date": "2026-04-03",
+        "action": "Updated meta description to emphasize 99% ATS accuracy",
+        "experiment_id": "SEO-017",
+        "impact": "CTR increased from 2.1% to 4.8%"
+      }
+    ]
+  },
+  {
+    "keyword": "ATS resume checker",
+    "timeline": [
+      { "month": "Jan", "date": "2026-01-15", "position": 36, "note": "Initial baseline" },
+      { "month": "Feb", "date": "2026-02-12", "position": 25, "note": "Meta title update (SEO-009)" },
+      { "month": "Mar", "date": "2026-03-15", "position": 16, "note": "Internal link additions from top blog post" },
+      { "month": "Apr", "date": "2026-04-10", "position": 8, "note": "Peak position reached" },
+      { "month": "May", "date": "2026-05-18", "position": 11, "note": "Competitor ResumeBot launched aggressive backlink push" },
+      { "month": "Jun", "date": "2026-06-05", "position": 14, "note": "Current position (Drop of 3 positions)" }
+    ],
+    "correlated_actions": [
+      {
+        "date": "2026-02-12",
+        "action": "Optimized meta title for user search intent",
+        "experiment_id": "SEO-009",
+        "impact": "Correlated with ranking recovery 36 -> 16 -> 8"
+      }
+    ]
+  },
+  {
+    "keyword": "resume scoring AI",
+    "timeline": [
+      { "month": "Jan", "date": "2026-01-15", "position": 52, "note": "Initial tracking" },
+      { "month": "Feb", "date": "2026-02-20", "position": 44, "note": "Competitor content push" },
+      { "month": "Mar", "date": "2026-03-25", "position": 30, "note": "SEO-021: Content expansion to 2,200 words" },
+      { "month": "Apr", "date": "2026-04-20", "position": 24, "note": "Rankings rising steadily" },
+      { "month": "May", "date": "2026-05-22", "position": 22, "note": "Current position" }
+    ],
+    "correlated_actions": [
+      {
+        "date": "2026-03-25",
+        "action": "Expanded content depth and added technical comparison table",
+        "experiment_id": "SEO-021",
+        "impact": "Strong historical signal for ranking gain from 44 to 22"
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "cit-001",
+    "source_domain": "hrtechweekly.org",
+    "source_title": "Top AI Resume Tools for 2026",
+    "source_type": "Industry Publication",
+    "brand_mentioned": "TalentFlow AI",
+    "competitors_mentioned": ["ResumeGenius AI", "JobScan Pro"],
+    "citation_url": "https://hrtechweekly.org/top-ai-resume-tools-2026",
+    "status": "Cited",
+    "ai_search_visibility": true,
+    "context": "TalentFlow AI was cited as a top 3 AI resume analyzer for ATS keyword optimization.",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "cit-002",
+    "source_domain": "techcrunch.com",
+    "source_title": "How Machine Learning is Changing Hiring",
+    "source_type": "News Site",
+    "brand_mentioned": null,
+    "competitors_mentioned": ["ResumeGenius AI"],
+    "citation_url": "https://techcrunch.com/2026/03/ml-in-hiring",
+    "status": "Uncited Opportunity",
+    "ai_search_visibility": false,
+    "context": "Competitor ResumeGenius AI cited for its parsing benchmark dataset. TalentFlow AI has a superior benchmark report.",
+    "date": "2026-03-18"
+  },
+  {
+    "id": "cit-003",
+    "source_domain": "shrm.org",
+    "source_title": "Automated Candidate Screening Guidelines",
+    "source_type": "Professional Association",
+    "brand_mentioned": null,
+    "competitors_mentioned": ["JobScan Pro", "ResumeGenius AI"],
+    "citation_url": "https://shrm.org/resources/automated-screening",
+    "status": "Uncited Opportunity",
+    "ai_search_visibility": false,
+    "context": "SHRM resource links to top 3 ATS diagnostic tools. High-authority citation opportunity.",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "cit-004",
+    "source_domain": "forbes.com",
+    "source_title": "Best AI Tools for Job Seekers in 2026",
+    "source_type": "Major Media",
+    "brand_mentioned": "TalentFlow AI",
+    "competitors_mentioned": ["ResumeGenius AI", "JobScan Pro"],
+    "citation_url": "https://forbes.com/advisor/careers/best-ai-resume-tools",
+    "status": "Cited",
+    "ai_search_visibility": true,
+    "context": "TalentFlow AI highlighted for best user interface and accurate ATS keyword breakdown.",
+    "date": "2026-05-04"
+  }
+]

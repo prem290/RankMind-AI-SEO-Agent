@@ -1,0 +1,68 @@
+[
+  {
+    "id": "comp-001",
+    "domain": "resumegenius-ai.com",
+    "name": "ResumeGenius AI",
+    "visibility_score": 84,
+    "ranking_keywords": 6420,
+    "content_published_month": 23,
+    "new_pages_30d": 15,
+    "backlinks_gained_30d": 82,
+    "citation_presence": "High (Cited in 42 top industry publications)",
+    "serp_features": ["Featured Snippet", "People Also Ask", "Knowledge Panel"],
+    "recent_events": [
+      {
+        "date": "2026-02-14",
+        "event": "Published 15 comprehensive guides on ATS scoring algorithms",
+        "keywords_gained": ["ATS resume checker", "resume ATS algorithm"],
+        "observed_impact": "Preceded ranking loss for TalentFlow AI across 7 overlapping keywords"
+      },
+      {
+        "date": "2026-04-02",
+        "event": "Acquired 34 high-authority backlinks from HR Tech blogs",
+        "keywords_gained": ["AI resume analyzer"],
+        "observed_impact": "Increased SERP position from #5 to #2"
+      }
+    ]
+  },
+  {
+    "id": "comp-002",
+    "domain": "jobscan-pro.example",
+    "name": "JobScan Pro",
+    "visibility_score": 76,
+    "ranking_keywords": 5190,
+    "content_published_month": 12,
+    "new_pages_30d": 8,
+    "backlinks_gained_30d": 45,
+    "citation_presence": "Moderate (Cited in 28 sites)",
+    "serp_features": ["People Also Ask", "Video Carousel"],
+    "recent_events": [
+      {
+        "date": "2026-03-01",
+        "event": "Added interactive free ATS scanner widget on landing page",
+        "keywords_gained": ["free ATS scanner"],
+        "observed_impact": "Drove 30% increase in referral traffic and domain authority boost"
+      }
+    ]
+  },
+  {
+    "id": "comp-003",
+    "domain": "cvmaker-ai.io",
+    "name": "CVMaker AI",
+    "visibility_score": 62,
+    "ranking_keywords": 3810,
+    "content_published_month": 6,
+    "new_pages_30d": 4,
+    "backlinks_gained_30d": 19,
+    "citation_presence": "Low (Cited in 12 sites)",
+    "serp_features": ["Images"],
+    "recent_events": [
+      {
+        "date": "2026-05-10",
+        "event": "Redesigned site architecture and added internal breadcrumbs",
+        "keywords_gained": ["best resume builder"],
+        "observed_impact": "Moved from position #28 to #15"
+      }
+    ]
+  }
+]

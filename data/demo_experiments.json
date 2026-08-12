@@ -1,0 +1,113 @@
+[
+  {
+    "experiment_id": "SEO-014",
+    "title": "FAQ Content & Internal Link Optimization for AI Resume Keywords",
+    "target_url": "https://talentflow-ai.example/ai-resume-analyzer",
+    "target_keywords": ["AI resume analyzer", "ATS optimization tool", "resume scoring AI"],
+    "hypothesis": "Adding structured FAQ content schema and 5 internal contextual links from high-authority blog posts will improve rankings for core AI resume keywords.",
+    "changes_made": [
+      "Added 6 structured FAQ items with Schema markup",
+      "Created 5 internal links from /blog/ai-recruitment with descriptive anchors",
+      "Updated H2 header hierarchy"
+    ],
+    "start_date": "2026-03-01",
+    "end_date": "2026-04-15",
+    "before_position": 31.0,
+    "after_position": 14.0,
+    "traffic_before": 2400,
+    "traffic_after": 7800,
+    "ctr_before": 1.8,
+    "ctr_after": 5.4,
+    "outcome": "Successful",
+    "confidence": 92.0,
+    "notes": "Position jumped from 31 to 14 within 6 weeks. FAQ snippet triggered on 4 terms."
+  },
+  {
+    "experiment_id": "SEO-009",
+    "title": "Meta Title Restructuring for Intent Alignment",
+    "target_url": "https://talentflow-ai.example/ats-checker",
+    "target_keywords": ["ATS resume checker", "ATS optimization"],
+    "hypothesis": "Rewriting meta title to explicitly include 'Free Instant Scan & Score' will increase CTR and search ranking.",
+    "changes_made": [
+      "Changed title from 'ATS Checker | TalentFlow AI' to 'Free ATS Resume Checker - Instant AI Resume Score (2026)'",
+      "Updated meta description"
+    ],
+    "start_date": "2026-02-05",
+    "end_date": "2026-03-15",
+    "before_position": 36.0,
+    "after_position": 16.0,
+    "traffic_before": 1200,
+    "traffic_after": 4500,
+    "ctr_before": 2.1,
+    "ctr_after": 6.8,
+    "outcome": "Successful",
+    "confidence": 88.0,
+    "notes": "Recovered position from 36 to 16. Higher CTR signaled user relevance to search engine."
+  },
+  {
+    "experiment_id": "SEO-005",
+    "title": "Shortened Keyword-Stuffed Title Tag",
+    "target_url": "https://talentflow-ai.example/cv-parser",
+    "target_keywords": ["AI CV parser", "free CV parser"],
+    "hypothesis": "Shortening the title tag to a single branded term will improve brand authority.",
+    "changes_made": [
+      "Replaced 'AI CV Parser Tool - Parse Resumes Online' with 'TalentFlow Parser'"
+    ],
+    "start_date": "2026-01-10",
+    "end_date": "2026-02-10",
+    "before_position": 20.0,
+    "after_position": 27.0,
+    "traffic_before": 1800,
+    "traffic_after": 950,
+    "ctr_before": 3.5,
+    "ctr_after": 1.2,
+    "outcome": "Failed",
+    "confidence": 95.0,
+    "notes": "Ranking dropped by 7 positions. Removing relevant keyword from title reduced relevance signal. Learned to retain core keyword in titles."
+  },
+  {
+    "experiment_id": "SEO-021",
+    "title": "Comprehensive Content Expansion to 2,500 Words",
+    "target_url": "https://talentflow-ai.example/blog/resume-scoring",
+    "target_keywords": ["resume scoring AI", "how resume scoring works"],
+    "hypothesis": "Expanding content length from 800 to 2,500 words with expert quotes will improve semantic topic authority.",
+    "changes_made": [
+      "Added 1,700 words of technical deep dive content",
+      "Added 3 custom infographic visuals",
+      "Included 4 external academic citations"
+    ],
+    "start_date": "2026-03-20",
+    "end_date": "2026-05-01",
+    "before_position": 44.0,
+    "after_position": 22.0,
+    "traffic_before": 600,
+    "traffic_after": 3100,
+    "ctr_before": 1.1,
+    "ctr_after": 4.2,
+    "outcome": "Successful",
+    "confidence": 85.0,
+    "notes": "Ranking improved by 22 positions. Extended content reduced bounce rate by 24%."
+  },
+  {
+    "experiment_id": "SEO-027",
+    "title": "Authoritative Data Citation & Infographic Outreach",
+    "target_url": "https://talentflow-ai.example/blog/ai-recruitment-tools",
+    "target_keywords": ["AI recruitment tools"],
+    "hypothesis": "Publishing an original industry survey report will generate backlinks and earn citation authority.",
+    "changes_made": [
+      "Published 'State of AI Recruitment 2026' original data survey",
+      "Conducted email outreach to HR publications"
+    ],
+    "start_date": "2026-04-01",
+    "end_date": "2026-05-20",
+    "before_position": 21.0,
+    "after_position": 15.0,
+    "traffic_before": 1500,
+    "traffic_after": 4200,
+    "ctr_before": 2.4,
+    "ctr_after": 5.1,
+    "outcome": "Successful",
+    "confidence": 90.0,
+    "notes": "Earned 14 new editorial backlinks and 6 brand citations. Improved position from 21 to 15."
+  }
+]

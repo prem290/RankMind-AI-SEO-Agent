@@ -1,0 +1,50 @@
+[
+  {
+    "id": "pat-001",
+    "pattern_name": "Structured FAQ Content Strategy",
+    "summary": "Adding FAQ sections with Schema markup historically improves rankings for informational and transactional keywords.",
+    "evidence_count": 7,
+    "average_improvement": "+11 positions",
+    "confidence": 82.0,
+    "category": "Content & Schema",
+    "successful_experiments": ["SEO-014", "SEO-018", "SEO-024"],
+    "failed_experiments": [],
+    "insight": "Search engines award rich snippet real estate when FAQ schema matches user query intent."
+  },
+  {
+    "id": "pat-002",
+    "pattern_name": "Contextual Internal Link Clustering",
+    "summary": "Internal linking consistently helps pages ranking between positions 8-30 recover momentum and move to Top 10.",
+    "evidence_count": 12,
+    "average_improvement": "+6 positions",
+    "confidence": 89.0,
+    "category": "Internal Architecture",
+    "successful_experiments": ["SEO-014", "SEO-009", "SEO-022"],
+    "failed_experiments": [],
+    "insight": "Passing page equity from high-traffic blog articles to target landing pages yields measurable ranking gains within 3-4 weeks."
+  },
+  {
+    "id": "pat-003",
+    "pattern_name": "Title Tag Keyword Stripping Risk",
+    "summary": "Removing primary keyword terms from title tags for brand aesthetic frequently causes rapid ranking drops.",
+    "evidence_count": 3,
+    "average_improvement": "-7 positions (Decline)",
+    "confidence": 95.0,
+    "category": "On-Page SEO",
+    "successful_experiments": [],
+    "failed_experiments": ["SEO-005"],
+    "insight": "Exact-match or phrase-match keywords in `<title>` tags remain a non-negotiable relevance signal."
+  },
+  {
+    "id": "pat-004",
+    "pattern_name": "Competitor Content Expansion Reaction",
+    "summary": "Competitor mass-content publishing is followed by visibility declines across non-updated pages within 30-45 days.",
+    "evidence_count": 5,
+    "average_improvement": "Correlated Visibility Loss",
+    "confidence": 74.0,
+    "category": "Competitor Dynamics",
+    "successful_experiments": [],
+    "failed_experiments": [],
+    "insight": "Proactive content refresh is required when competitors publish >10 topic-cluster articles."
+  }
+]
